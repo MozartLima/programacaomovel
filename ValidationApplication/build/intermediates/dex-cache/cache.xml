@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\ProjetosAndroid\GitHub\ValidationApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\Android\ProjetosAndroid\GitHub\ValidationApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_c8ac0b72a7f88e479a04d3d53f99cc083c540081\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\ProjetosAndroid\GitHub\ValidationApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="cec15f1577971acb25e23df9dbde3b552ddaa0bc">
+        <dex dex="D:\Android\ProjetosAndroid\GitHub\ValidationApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_74043d6f09bc3fc7f4d334e4d1f1f78d719f80d8\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\Android\ProjetosAndroid\GitHub\ValidationApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_6c2a284fdd61d0d8ac24aa3991d9cfbc35ef85c7\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\ProjetosAndroid\GitHub\ValidationApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\Android\ProjetosAndroid\GitHub\ValidationApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_1e4f2ca8216e4b932c6f07a6376969dda2b78407\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\ProjetosAndroid\GitHub\ValidationApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="912e51fe38612352115f25ff381ad6f7257e02ba">
+        <dex dex="D:\Android\ProjetosAndroid\GitHub\ValidationApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_461e02a7def141a415f7376c401e84d6fe5a6742\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\ProjetosAndroid\GitHub\ValidationApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\Android\ProjetosAndroid\GitHub\ValidationApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_eac2cea04a44cd99b8d4a808c56d5ff63ab73c9d\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\ProjetosAndroid\GitHub\ValidationApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Android\ProjetosAndroid\GitHub\ValidationApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_04f0ab2ff3c0f8c2c9937ac21d8e26b313396f5c\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\ProjetosAndroid\GitHub\ValidationApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\Android\ProjetosAndroid\GitHub\ValidationApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_4356ab1501db1488ba8333c13d5c25d8c7c0e1f3\classes.dex" />
+    </item>
+
+</items>

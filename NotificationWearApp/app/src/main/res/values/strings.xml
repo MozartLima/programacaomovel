@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">NotificationWearApp</string>
-    <string name="notify">Notificação</string>
-    <string name="asyncTask">Chamar AsyncTask</string>
-</resources>
